@@ -161,13 +161,17 @@ project/
 │   └── usage_observer.py
 │
 └── sandbox/
+```
 
-Installation
+## Installation
 
 Install the required packages:
 
+```code
 pip install -r requirements.txt
-Environment Variables
+```
+
+## Environment Variables
 
 Create a .env file in the project root and define the following variables:
 
@@ -177,43 +181,41 @@ AGENT_DEBUG=true
 SANDBOX_PATH=sandbox
 MEMORY_DUMP_PATH=debug/memory_dump.txt
 LLM_TRACE_PATH=debug/llm_trace.txt
-Running the Project
+
+## Running the Project
 
 Run the application from the terminal:
 
+```code
 python main.py
+```
 
 The program starts an interactive CLI session.
 
 Example inputs:
 
+```text
 hi
 what time is it
-calculate 4*4*4*4
+calculate 4*4*4\*4
 what is the weather in Istanbul
 read sample_notes.txt
+```
 
 To exit:
 
+```
 exit
-Example Flow
+```
+
+## Example Flow
 
 Example for a tool-based request:
 
+```text
 User asks: what time is it
 Gemini requests the time tool
 The agent executes TimeTool
 The result is stored in memory
 Gemini generates the final natural language response
-Notes
-The agent memory is session-based.
-The project focuses mainly on software architecture and extensibility.
-New tools can be added without changing the core Agent logic.
-Conclusion
-
-This project demonstrates how an LLM-based assistant can be designed with clean architecture principles instead of monolithic scripting.
-The final system is modular, easier to extend, and suitable for experimenting with tool-based AI agent behavior.
-
-
-
 ```

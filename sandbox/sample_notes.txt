@@ -1,0 +1,81 @@
+Batuhan ODÇIKIN
+E-Mail: batuhanodcikin@gmail.com
+LinkedIn: www.linkedin.com/in/batuhan-odcikin
+GitHub: www.github.com/batoddy
+Phone : +90 533 591 3972
+Education
+Yıldız Teknik University 2022 Sep - Present
+Computer Engineering / 3rd Year, (Bachleor) GPA : 3.31/4.0 İstanbul, Türkiye
+- English Preparatory Year, Proficiency Exam Score: 92.75
+- “UAV Indoor Exploration with Visual SLAM” Developed an autonomous indoor exploration system for UAVs using a
+depth camera in a ROS2 Gazebo simulation environment with PX4 SITL autopilot software and a hybrid frontier +
+sample-based planning algorithm.
+- TÜBİTAK 2209-B Project: “An Original STM32-Based File Transfer Protocol with Micro SD Card Support for CubeSat
+Systems”
+2022 YKS Ranking: Numerical 4902 || 2018 LGS: 1st place in Malatya province
+Minor in Industrial Engineering (%100 English) — GPA:2.5/4.0
+Riga Technical University 2026 Jan - Present
+Computer Systems - (Erasmus Program, Spring Semester 2025/2026) Riga, Latvia
+Experience
+BAYKAR Technologies 2025 June – 2025 July
+Intern, Light Platforms – Autopilot and Intelligent Systems Software
+- Designed a turbojet/internal combustion engine controller and governor using Matlab Simulink
+- Tested the controller on the autopilot system
+- Reverse-engineered an undocumented device with an unknown communication protocol and developed an STM32 library
+for it, along with technical documentation
+- Conducted detailed literature research on turbojet engines and presented the findings
+TÜBİTAK BİLGEM
+Embedded Software Intern, UEKAE Cryptology Unit 2024 Sep – 2024 Oct
+- Developed a UART-supported bootloader and worked with flash memory on STM32
+- Developed UDP/IP server-client communication systems on STM32
+- Worked on embedded Linux on STM32 and ARM-based microcontroller programming without CMSIS
+Orinium (TEKNOFEST UGV Competition – 6th place in Türkiye, 1st place in CDR) 2025 Feb– 2025 Sep
+Unmanned Ground Vehicle Project – Software Team Member
+- Developed ROS-based software and contributed to system architecture design
+- Developed V-SLAM-based autonomous driving algorithms using the Intel D456 depth camera
+- Performed mapping and localization with RTAB-Map
+- Developed local and global path planning software using Nav2
+Yıldiz Rocket Team
+AKU-II TVC (Thrust Vector Control) Rocket Project - Avionics System Lead 2023 Sep – 2024 Sep
+- Developed a real-time mission control interface with Qt
+- Designed embedded avionics systems and implemented sensor filtering and fusion with IMU and
+barometer data on STM32-based boards
+- Used peripherals and protocols including I2C, SPI, SDIO, UART, USART, and USB
+- Implemented inter-microcontroller communication in a multi-computer avionics system via CANBus
+- Programmed the real-time rocket flight algorithm using FreeRTOS
+- Established full-duplex communication between the rocket and the ground station via Wi-Fi and LoRa
+- Documented the project development process using LaTeX
+- Led avionics system testing and operational processes
+AKU-I Vertical Landing Payload Project – Software Lead 2022 Sep – 2023 Sep
+- Programmed embedded systems based on STM32 and ESP32
+- Worked with embedded peripherals such as barometer, IMU, SD card, GPS, and flash memory
+- Developed wireless communication systems using Wi-Fi and LoRa
+- Performed data analysis and visualization using PythonATIKON
+ATIKON 2024 March – 2025 March
+Co-Founder
+- Achieved 1st place in the Zero Waste Foundation Ideathon with the Green Cafes Project
+- Developed projects focused on green technologies
+TEMREN AI 2025 Feb – Halen
+Team Captain
+- Developing AI-supported 5G localization algorithms within the scope of TEKNOFEST
+- Developing models based on distance estimation from 5G data and Cell ID-based localization with meter-level
+accuracy
+Social Experience
+Technology Team Foundation of Türkiye (T3 Foundation)
+Eğitmen - Mentör Bursiyeri 2024 March – 2025 March
+- Provided training to middle school and high school students at Deneyap Technology Workshops and mentored
+them in technology projects
+- Applied STEM-oriented curricula and helped students gain technical knowledge and skills
+- Improved leadership and guidance skills throughout educational processes
+Türkiye Turing and Automobile Institution
+Scholarship Student 2022 Sep – 2024 June
+- Expanded intellectual background through seminars and educational programs in history, culture,
+psychology, and social sciences
+Defense Industry Academy – Defense Industry 101 2024 Oct – 2024 Nov
+Final Grade: BA
+Skills & Interests
+Programming Languages: C, C++, Python, Java
+Systems: STM32, ESP32, Raspberry Pi, Ardupilot, Jetson Orin Nano
+Tools & Technologies: ROS2, RTAB-Map, Nav2, RViz, FreeRTOS, Matlab, Qt, Linux
+Applications: MS Office, Fusion 360, Cura / BambuLab Studio (3D Printing), LaTeX, Canva
+Interests: Traditional Archery, Scale Modeling, 3D Printing, Swimming, Ice Hockey, Science and Technology Literacy
